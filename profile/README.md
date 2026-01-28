@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/Login-orange?style=for-the-badge" alt="Login">
   </a>
 
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/sms-activate-service/main/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
+</div>
+
 ## 📋 Quick Access Links
 
 | **Service Links** |
