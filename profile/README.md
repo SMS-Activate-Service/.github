@@ -16,7 +16,7 @@
   </a>
 
   <div align="center">
-  <img src="images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
+  <img src="/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
 </div>
 
 ## 📋 Quick Access Links
