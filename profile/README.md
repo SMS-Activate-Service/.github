@@ -16,7 +16,7 @@
   </a>
 
   <div align="center">
-  <img src="(https://raw.githubusercontent.com/SMS-Activate-Service/.github/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
+  <img src="https://raw.githubusercontent.com/SMS-Activate-Service/.github/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
 </div>
 
 ## 📋 Quick Access Links
