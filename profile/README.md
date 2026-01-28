@@ -14,7 +14,7 @@
   <a href="https://hero-sms.com" target="_blank">
     <img src="https://img.shields.io/badge/Login-orange?style=for-the-badge" alt="Login">
   </a>
-
+<br>
   <div align="center">
   <img src="/images/sms-activate-image.png" alt="Интерфейс SMS Activate" width="100%">
 </div>
